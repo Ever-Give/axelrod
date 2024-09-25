@@ -8,7 +8,7 @@ We noticed that a particular type of story was flooded on this site. We saw it s
 
 A major portion of this story is just a slightly edited version of Justice's story. We hope that Justice does not have a problem with this. Original story below
 
-$iframe allowfullscreen data-embedcontent data-embedid="embed7010446061" scrolling="no" src="//www.omorashi.org/applications/core/interface/js/spacer.png" style="height:225px;max-width:502px;" data-embed-src="https://www.omorashi.org/blogs/entry/658-chapter-3-exam/?do=embed"
+%https://www.omorashi.org/blogs/entry/658-chapter-3-exam/
 
 Cliché Omorashi
 

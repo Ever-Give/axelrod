@@ -8,7 +8,7 @@ This is the rework version.it will switch between 1st&3rd person perspective and
 
 Chapter 1: I got a magic power
 
-@@while I walk home from school. Passing a alley where a lot of girls use as an emergency reliving spot.
+While I walk home from school. Passing a alley where a lot of girls use as an emergency reliving spot.
 
 How did I know? The day I found out about this, my usual path was closed for maintenance. So I have to walk this path,
 
